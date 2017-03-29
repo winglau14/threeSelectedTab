@@ -1,6 +1,6 @@
-# tab3
+# threeSelectedTab
 
-> A Vue.js project
+![demo](https://raw.githubusercontent.com/winglau14/threeSelectedTab/master/static/1.gif)
 
 ## Build Setup
 
